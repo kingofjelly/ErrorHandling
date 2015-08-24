@@ -1,0 +1,5 @@
+C:\Users\dmc\Desktop\C# Work Apps\ErrorHandling\ErrorHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmc\Desktop\C# Work Apps\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.exe
+C:\Users\dmc\Desktop\C# Work Apps\ErrorHandling\ErrorHandling\bin\Debug\ErrorHandling.pdb
+C:\Users\dmc\Desktop\C# Work Apps\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.exe
+C:\Users\dmc\Desktop\C# Work Apps\ErrorHandling\ErrorHandling\obj\Debug\ErrorHandling.pdb
